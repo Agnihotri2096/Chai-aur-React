@@ -5,6 +5,6 @@ function App() {
       <p>Welcome to my first Vite React application.</p>
     </div>
   )
-}
+}  
 
 export default App
